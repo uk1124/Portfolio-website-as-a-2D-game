@@ -5,7 +5,7 @@ It's a 2D portfolio project utilizing JavaScript and the kaboom.js library.
 
 ![A screenshot of the project](./developerportfoliothumbnail.png)
 
-Live Demo : https://uk1124.github.io/Utkarsh-Shukla-Portfolio-as-a-2D-game
+Live Demo : https://utkarsh-portfolio-2d-game.netlify.app/
 
 # How to run
 
