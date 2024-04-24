@@ -21,4 +21,4 @@ Note: You need `Node.js` and `npm` installed on your machine.
 
 `npm run preview`
 
-# Credits: JSLegend (https://github.com/JSLegendDev)
+### Credits: JSLegend (https://github.com/JSLegendDev)
