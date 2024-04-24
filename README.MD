@@ -5,7 +5,7 @@ It's a 2D portfolio project utilizing JavaScript and the kaboom.js library.
 
 ![A screenshot of the project](./developerportfoliothumbnail.png)
 
-Live Demo :
+Live Demo : https://uk1124.github.io/Utkarsh-Shukla-Portfolio-as-a-2D-game
 
 # How to run
 
@@ -21,4 +21,8 @@ Note: You need `Node.js` and `npm` installed on your machine.
 
 `npm run preview`
 
+<br/>
 Credits: JSLegend (https://github.com/JSLegendDev)
+<br/>
+
+
