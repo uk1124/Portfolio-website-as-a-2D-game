@@ -23,4 +23,4 @@ Note: You need `Node.js` and `npm` installed on your machine.
 
 <br/><br/>
 
-### Credits: JSLegend (https://github.com/JSLegendDev)
+Credits: JSLegend (https://github.com/JSLegendDev)
