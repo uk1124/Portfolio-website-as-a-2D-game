@@ -20,6 +20,7 @@ Note: You need `Node.js` and `npm` installed on your machine.
 # How to preview the build
 
 `npm run preview`
-\\
-\\
+
+<br/><br/>
+
 #### Credits: JSLegend (https://github.com/JSLegendDev)
